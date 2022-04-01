@@ -28,4 +28,4 @@ User can register and login, although I will put below a test user account also
 ## ***** Database Login Credentials as Developer *****
 Database Login URL already given up in URL section
 <br />user : nsic
-<br />password : nsic@1234 
+<br />password : Nsic@1234#@! 
