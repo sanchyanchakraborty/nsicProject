@@ -1,0 +1,13 @@
+# Created by https://www.toptal.com/developers/gitignore/api/phpcodesniffer,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=phpcodesniffer,dotenv
+
+### dotenv ###
+.env
+
+### PHPCodeSniffer ###
+# CodeSniffer
+
+/vendor/*
+/wpcs/*
+
+# End of https://www.toptal.com/developers/gitignore/api/phpcodesniffer,dotenv
