@@ -14,18 +14,18 @@ Can add or Modify Rooms Details and Cources
 # Details
 ## ***** URL's ***** 
 Website URL = https://nsic.sanchyan.tech/
-Database Login URL = https://mysql.sanchyan.tech/
+<br /> Database Login URL = https://mysql.sanchyan.tech/
 
 ## ***** User Credentials ***** 
 User can register and login, although I will put below a test user account also
-email ID : test@gmail.com
-password : Test@123
+<br />email ID : test@gmail.com
+<br />password : Test@123
 
 ## ***** Admin Credentials ***** 
-email ID : admin
-password : Test@1234 
+<br />email ID : admin
+<br />password : Test@1234 
 
 ## ***** Database Login Credentials as Developer *****
 Database Login URL already given up in URL section
-user : nsic
-password : nsic@1234 
+<br />user : nsic
+<br />password : nsic@1234 
